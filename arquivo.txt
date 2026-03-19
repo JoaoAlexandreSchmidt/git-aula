@@ -4,3 +4,5 @@ Alunos do 3C
 Estudamos sobre o Git e como criar o repositório local
 Todos participaram
 Foi um sucesso!
+
+O jogo
